@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-resume/static/css/main.8a46ab90.chunk.css",
+    "main.js": "/react-resume/static/js/main.6ed80400.chunk.js",
+    "main.js.map": "/react-resume/static/js/main.6ed80400.chunk.js.map",
+    "runtime-main.js": "/react-resume/static/js/runtime-main.b82ab2ef.js",
+    "runtime-main.js.map": "/react-resume/static/js/runtime-main.b82ab2ef.js.map",
+    "static/css/2.e10332d9.chunk.css": "/react-resume/static/css/2.e10332d9.chunk.css",
+    "static/js/2.77fdca7b.chunk.js": "/react-resume/static/js/2.77fdca7b.chunk.js",
+    "static/js/2.77fdca7b.chunk.js.map": "/react-resume/static/js/2.77fdca7b.chunk.js.map",
+    "index.html": "/react-resume/index.html",
+    "precache-manifest.f6927e919da24cff4054d1a4fd23b9a6.js": "/react-resume/precache-manifest.f6927e919da24cff4054d1a4fd23b9a6.js",
+    "service-worker.js": "/react-resume/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/react-resume/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.8a46ab90.chunk.css.map": "/react-resume/static/css/main.8a46ab90.chunk.css.map",
+    "static/js/2.77fdca7b.chunk.js.LICENSE.txt": "/react-resume/static/js/2.77fdca7b.chunk.js.LICENSE.txt",
+    "static/media/codecamp7 v1_201107_1.jpg": "/react-resume/static/media/codecamp7 v1_201107_1.068dd499.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b82ab2ef.js",
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.77fdca7b.chunk.js",
+    "static/css/main.8a46ab90.chunk.css",
+    "static/js/main.6ed80400.chunk.js"
+  ]
+}
